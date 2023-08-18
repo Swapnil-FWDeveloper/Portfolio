@@ -2,17 +2,17 @@ const Projects = [
   {
     name: "Mini Projects",
     about:
-      "Meesho is an online marketplace for buying and selling products. It offers a wide variety of products and a reseller program.",
+      "Mini projects are small projects that I've built for my learning. I have created some awesome mini projects using HTML, CSS, JavaScript, and React.",
     img: "https://miro.medium.com/max/828/1*Xnl2yu56eM87iDKUUybWRQ.png",
-    gitrepo: "https://github.com/anjalidhanjode28/Zee_clone",
-    tech_stack: "HTML | CSS | JAVASCRIPT ",
+    gitrepo: "https://github.com/Swapnil-FWDeveloper/Mini-Projects",
+    tech_stack: "HTML | CSS | JAVASCRIPT | REACT ",
     tech_stackicons: [
       `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
       `<img src="https://img.icons8.com/color/50/000000/css3.png"/>`,
       `<img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>`,
       `<img src="https://img.icons8.com/nolan/64/api-settings.png" width="48px"/>`,
     ],
-    project_link: "https://jocular-pony-971066.netlify.app/",
+    project_link: "https://github.com/Swapnil-FWDeveloper/Mini-Projects",
     project_type: "Individual Project",
     category: ["all", "frontend"],
   },
