@@ -101,7 +101,7 @@ window.addEventListener("scroll", () => {
 })
 
 function resume() {
-    window.open("https://drive.google.com/file/d/133j5SnSGqn_2w05c_pKYGW2JZWT8t1IR/view?usp=sharing")
+    window.open("https://drive.google.com/file/d/1EDHVyLxMCH2nbn_SxojoKBD3zMyc5mRT/view?usp=sharing")
 }
 
 
