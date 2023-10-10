@@ -21,7 +21,8 @@ const Projects = [
     about:
       "Stylecraze is a product website that provides the facility of beauty products for women and also provides articles according to brands. StyleCraze’s articles are accurate, current, relevant, and actionable.",
     img: "https://cdn-images-1.medium.com/v2/resize:fit:800/1*IH-ovX38RC5V_IqM8L2k7Q.png",
-    gitrepo: "https://github.com/Swapnil-FWDeveloper/Mini-Projects/tree/main/WheatherApp",
+    gitrepo:
+      "https://github.com/Swapnil-FWDeveloper/Mini-Projects/tree/main/WheatherApp",
     tech_stack: "HTML | CSS | JAVASCRIPT",
     tech_stackicons: [
       `<img src="https://img.icons8.com/color/50/000000/html-5--v1.png" />`,
@@ -37,8 +38,7 @@ const Projects = [
     about:
       "Zappos.com is an E-commerce website which retails shoes, clothing, accessories, handbags, etc.",
     img: "https://cdn-images-1.medium.com/v2/resize:fit:800/1*9ZgeEnW108UbHKKNkoDrtw.png",
-    gitrepo:
-      "https://github.com/Swapnil-SDS/Bluestone-clone",
+    gitrepo: "https://github.com/Swapnil-SDS/Bluestone-clone",
     video: "",
     tech_stack: "HTML | CSS | JavaScript ",
     tech_stackicons: [
@@ -64,7 +64,7 @@ const Projects = [
     ],
     project_link: "https://glittering-cucurucho-a9b3ca.netlify.app/",
     project_type: "Group Project",
-    category: ["all","frontend"],
+    category: ["all", "frontend"],
   },
   {
     name: "Meesho.com",
@@ -80,9 +80,8 @@ const Projects = [
     ],
     project_link: "https://mesho-clone.vercel.app/",
     project_type: "Individual Project",
-    category: ["all","frontend"],
-  }
- 
+    category: ["all", "frontend"],
+  },
 ];
 
 let projects__container = document.getElementById("projects--container");
