@@ -28,7 +28,7 @@ const skills = [
 
   {
     name: "Chakra UI",
-    icon_url: "../images/Chakra_UI.png",
+    icon_url: "https://img.icons8.com/?size=48&id=r9QJ0VFFrn7T&format=png",
     category: ["all", "frontend"],
   },
   {
