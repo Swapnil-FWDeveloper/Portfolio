@@ -16,13 +16,13 @@ const skills = [
   },
   {
     name: "React",
-    icon_url: "../images/React_icon.png",
+    icon_url: "https://img.icons8.com/?size=80&id=asWSSTBrDlTW&format=png",
     category: ["all", "frontend"],
   },
 
   {
     name: "Redux",
-    icon_url: "../images/Redux_img.png",
+    icon_url: "https://img.icons8.com/?size=48&id=jD-fJzVguBmw&format=png",
     category: ["all", "frontend"],
   },
 
